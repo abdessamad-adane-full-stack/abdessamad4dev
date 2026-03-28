@@ -1,5 +1,5 @@
 Full-Stack Developer specializing in Symfony (PHP) and Angular!
-With more of 3.5 years of experience in software development, I focus on building scalable, high-performance web applications and continuously improving code quality, security, and performance. Always open to collaborations, knowledge sharing, and new opportunities—feel free to reach out!
+With around 4 years of experience in software development, I focus on building scalable, high-performance web applications and continuously improving code quality, security, and performance. Always open to collaborations, knowledge sharing, and new opportunities—feel free to reach out!
 
 💻 Tech Stack & Skills
 Backend Development
